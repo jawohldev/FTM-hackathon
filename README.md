@@ -44,6 +44,5 @@ We are proud of the dashboard and bots we built for the project as they provided
 ## What we learned
 We learned a lot(to) about game theory, we are constantly looking at feedback from the community to see what we can do to improve VAMP.
 
-Expirementation
 ## What's next for Vampire
 The coding is largely done, but that doesn't mean it is the end for VAMP. By playing with a variety of variables, we can fine tune VAMP's protocols to provide the best investment and entertainment oppurtunities to our investors. We are actively looking for other high quality tokens or projects that bring consistent value to their investors to collaborate with.
