@@ -1,4 +1,4 @@
-#Vampire $VAMP
+# Vampire $VAMP
 ## Inspiration
 The emergence of lottonomics within smart contracts has served as a catalyst for the development of VAMP - our groundbreaking innovation in the realm of money games. These games offer a unique method for driving new capital into the token economy, and our team recognized an opportunity to create a completely verifiable, on-chain jackpot game that could succeed where others have failed. While many lottery and jackpot tokens have struggled with implementing proper smart contracts, we believe that our approach, which involves a buyback and burn when the jackpot is won, will guarantee the appreciation of the token's value and increase the price floor over time.
 
