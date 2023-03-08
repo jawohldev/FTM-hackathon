@@ -31,9 +31,12 @@ We utilized Web3.py to query and display blockchain data, such as the current ba
 ## Challenges we ran into
 ### Contract
 One of our biggest challenges was with the Smart Contract. It required many hours of testing and long nights to make sure everything worked properly. 
+
 ### Bots
 The other biggest was getting the bot to fire off when needed, which was figured out after a solid week testing after launch.
 
+### Dashboard
+The challenge was to make the timer on the VAMP dashboard count up correctly instead of constantly looking for buys. This involved optimizing the code to ensure that the timer accurately reflected the time elapsed since the last winner announcement, rather than waiting indefinitely for new buys to trigger the timer. Ultimately, we had to troubleshoot and refine the code to ensure that the timer worked correctly and provided accurate information to users.
 ## Accomplishments that we're proud of
 ### Game theory 
 We are proud of the game theory for VAMP because it provides a fair and transparent way for players to participate in the lottery and win rewards. The game theory ensures that the jackpot is won by the last buyer within a given period, creating an element of excitement and competition for players.
