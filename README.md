@@ -22,7 +22,7 @@ Overall, the contract was built with security in mind, using industry-standard p
 ### DashBoard 
 We built a user-friendly dashboard for VAMP, a lottery cryptocurrency, using Next.js and React. The dashboard had key features, including winner tracking, jackpot holdings, and statistics, timer until the next winner, and the amount of VAMP burned. After gathering requirements, we designed a UI using Next.js and React that reflected VAMP's brand identity and ensured easy navigation. We developed front-end components to display real-time information from VAMP's API, including a winner tracking component, jackpot holdings and statistics component, timer until the next winner component, and the VAMP burned component. These features provided users with valuable information, creating trust in the platform's long-term viability.
 
-###Bots - 
+### Bots - 
 we used Nextcord, a Discord API wrapper for Python, to build the Discord bot. Nextcord provides an easy-to-use interface for interacting with Discord's API, allowing us to build and deploy the bot quickly. We used Nextcord's API to create commands for the bot to execute, including the ability to display information about the project, such as its price and market capitalization.
 
 For the Telegram bot, we used the Requests library, a Python library for making HTTP requests, to communicate with Telegram's API. We built a bot that allowed users to check the current price of the project, receive notifications about significant changes in price, and perform other tasks such as setting alerts and receiving updates about the project's progress.
