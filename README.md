@@ -29,7 +29,10 @@ We built a Telegram bot, using requests.py, that informed the user about the tim
 
 We utilized Web3.py to query and display blockchain data, such as the current balance of the project's wallet and the total supply of the project's tokens. We also used Web3.py to execute smart contract functions, such as distributing tokens to users.
 ## Challenges we ran into
-
+### Contract
+One of our biggest challenges was with the Smart Contract. It required many hours of testing and long nights to make sure everything worked properly. 
+### Bots
+The other biggest was getting the bot to fire off when needed, which was figured out after a solid week testing after launch.
 
 ## Accomplishments that we're proud of
 ### Game theory 
