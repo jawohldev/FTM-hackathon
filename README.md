@@ -22,18 +22,17 @@ Overall, the contract was built with security in mind, using industry-standard p
 ### DashBoard 
 We built a user-friendly dashboard for VAMP, a lottery cryptocurrency, using Next.js and React. The dashboard had key features, including winner tracking, jackpot holdings, and statistics, timer until the next winner, and the amount of VAMP burned. After gathering requirements, we designed a UI using Next.js and React that reflected VAMP's brand identity and ensured easy navigation. We developed front-end components to display real-time information from VAMP's API, including a winner tracking component, jackpot holdings and statistics component, timer until the next winner component, and the VAMP burned component. These features provided users with valuable information, creating trust in the platform's long-term viability.
 
-### Bots - 
-we used Nextcord, a Discord API wrapper for Python, to build the Discord bot. Nextcord provides an easy-to-use interface for interacting with Discord's API, allowing us to build and deploy the bot quickly. We used Nextcord's API to create commands for the bot to execute, including the ability to display information about the project, such as its price and market capitalization.
+### Bots 
+we used Nextcord, a Discord API wrapper for Python, to build the Discord bot. We used Nextcord's API to  display information about the project, such as its price and burn and supply, who is the current leader of the jackpot and what the winnings are.
 
-For the Telegram bot, we used the Requests library, a Python library for making HTTP requests, to communicate with Telegram's API. We built a bot that allowed users to check the current price of the project, receive notifications about significant changes in price, and perform other tasks such as setting alerts and receiving updates about the project's progress.
+We built a Telegram bot, using requests.py, that informed the user about the timing of jackpot. what it held, and when the Jackpot events fired.
 
-To integrate Web3, a library for interacting with Ethereum blockchain, into the bots, we used the library's Python implementation, Web3.py. We utilized Web3.py to query and display blockchain data, such as the current balance of the project's wallet and the total supply of the project's tokens. We also used Web3.py to execute smart contract functions, such as distributing tokens to users.
+We utilized Web3.py to query and display blockchain data, such as the current balance of the project's wallet and the total supply of the project's tokens. We also used Web3.py to execute smart contract functions, such as distributing tokens to users.
 ## Challenges we ran into
 
 
 ## Accomplishments that we're proud of
-
-### Game theory - 
+### Game theory 
 We are proud of the game theory for VAMP because it provides a fair and transparent way for players to participate in the lottery and win rewards. The game theory ensures that the jackpot is won by the last buyer within a given period, creating an element of excitement and competition for players.
 
 Moreover, the jackpot's capped amount ensures that the system remains sustainable, and the 70% reinvestment of funds into buying and burning VAMP tokens promotes the platform's long-term viability. The distribution of rewards to the team, jackpot, and token burn aligns with the project's overall goals and vision, while also incentivizing desirable behaviors among players.
@@ -43,8 +42,8 @@ Overall, we believe that the game theory for VAMP provides a robust and effectiv
 We are proud of the dashboard and bots we built for the project as they provided users with valuable information and tools to interact with the project and stay informed about its activities. The dashboard was user-friendly, visually appealing, and responsive across all devices, while the bots were reliable, efficient, and provided real-time information to users. These tools helped establish VAMP's credibility and trustworthiness, making it a trustworthy and reliable platform. Overall, we are proud of the work we did and the impact it had on the success of the project.
 
 ## What we learned
-We learned a lot about game theory, we are constantly looking at feedback from the community to see what we can do to improve VAMP.
+We learned a lot(to) about game theory, we are constantly looking at feedback from the community to see what we can do to improve VAMP.
 
 Expirementation
 ## What's next for Vampire
-The coding is largely done, but that doesn't mean it is the end for VAMP. By playing with a variety of variables, we can tune VAMP's protocols to provide the best investment and entertainment oppurtunities to our investors. We are actively looking for other high quality tokens or projects that bring consistent value to their investors to collaborate with.
+The coding is largely done, but that doesn't mean it is the end for VAMP. By playing with a variety of variables, we can fine tune VAMP's protocols to provide the best investment and entertainment oppurtunities to our investors. We are actively looking for other high quality tokens or projects that bring consistent value to their investors to collaborate with.
